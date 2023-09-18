@@ -1,3 +1,3 @@
-# WebLab1
+# WebLab2
 Vlad Kremenetskiy
 124401
